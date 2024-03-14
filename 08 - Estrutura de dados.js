@@ -25,4 +25,11 @@ console.log(mapa); // Map { 'chave1' => 'valor-1', 'chave3' => 'valor-2' }
 var conjunto = new Set();
 conjunto.add(1);
 conjunto.add("Mr. Robot");
-console.log(conjunto);
+console.log(conjunto); //Set { 1, 'Mr. Robot' }
+
+// Outras estruturas de dados que vou adicionar mais tarde.
+/**
+ * 1 - Stack (Pilha)
+ * 2 - Queue (Fila)
+ * 3 - LinkedList (Lista encadeada)
+ */
