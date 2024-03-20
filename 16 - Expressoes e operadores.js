@@ -37,4 +37,22 @@ console.log("5" == 5); // true
 console.log( 2 === 2); // true
 console.log(2 === "2"); // false
 
+// (!=) - Diferença - Verifica se dois valores são diferentes.
+console.log(5 != 3); // true
+console.log("5" != 5); // false - Não compara o tipo de dados.
+
+// (!==) -  diferença estrita - Compara valores e tipos de dados.
+console.log(5 !== 3); // true
+console.log("5" !== 5); // true
+
+// (>) e (<) - Compara se o valor é maior ou menor.
+console.log(2 > 1);// true
+console.log(5 < 3); // false
+
+// (>=) e (<=) - Maior e menor igual
+console.log(5 >= 5); // true
+console.log(5 <= 3); // false
+
+
+
 
