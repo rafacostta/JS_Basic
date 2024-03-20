@@ -28,5 +28,5 @@ function divisao(dividendo, divisor){
 try{
     divisao(10,0);
 } catch(e) {
-    console.log("erro : ", e.message);
+    console.log("erro : ", e.message);//erro :  Não existe divisão por zero.
 }
