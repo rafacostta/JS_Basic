@@ -16,7 +16,7 @@ if (nome === 'rafael' && sobrenome === 'costa'){
     console.log(`${nome} ${sobrenome} ... pessoa encontrada!`);
 }
 
-// (//) - Operador lógico OR
+// (||) - Operador lógico OR
 let dia = 'domingo';
 let diaSemana = (dia === 'domingo') ? "fim de semana" : "dia de semana";
 console.log(diaSemana);
